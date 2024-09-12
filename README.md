@@ -1,1 +1,5 @@
-# Harness CI Sample for go
+<<<<<<< HEAD
+Your local changes
+=======
+Changes from the remote repository
+>>>>>>> main
